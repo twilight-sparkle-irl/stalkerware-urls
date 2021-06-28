@@ -92,9 +92,15 @@ Subdomain: `.xnore.com`
 	Android/iOS/PC/Mac/BlackBerry
 	http://xnore.com/
 
+Subdomain: `.spyic.com`
+	Spyic stalkerware, used by the Android version for C2.
+	Android/iOS (iOS apparently abuses iCloud for monitoring)
+	https://spyic.com/
 
-
-
+Domain: `viptrack.pro`
+	Used by Spyic to ditribute the Android app.
+	Android/iOS (iOS apparently abuses iCloud for monitoring)
+	https://spyic.com/
 
 
 
