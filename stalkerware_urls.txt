@@ -379,6 +379,7 @@ ftp.spyera.com
 ftp.spytector.com
 ftp.thetruthspy.com
 gattix.1337.cx
+geo.netsupportsoftware.com
 get-out.1337.cx
 get.snoopza.com
 git.reptilicus.net
